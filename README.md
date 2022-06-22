@@ -1,6 +1,9 @@
 # Сучасні технології безпечного програмування
 
-<!-- TODO: common info like goal, objectionve .... -->
+* [Інформація щодо Сілабуса та навчальної програми](./silabus-info.md)
+
+<!-- TODO: update me -->
+* [Перелік екзаменаційних питань](./exam-questions.md)
 
 ## Загальна інформація
 * Мова програмування (якщо явно не задана) на вибір: Java, C#, C, Go, Python
@@ -19,7 +22,7 @@
    * `src/` - директорія з source code
 
 ### Зверніть увагу
-* Для отримання оцінки "автоматом" - усі звіти повинні бути проапрувлені до початку сесії
+* Для отримання оцінки "автоматом" - усі звіти повинні бути здані до початку сесії
 * Якщо всі звіти виконано вчасно - друкувати їх не має необхідності. Якщо хоча б одну роботу не виконано до початку сесії - треба друкувати всі звіти на "завіряти" керуючому практикою
 * Кінцева оцінка акумулюється з оцінок за виконані роботи (80) та за лекційну активність та/або додаткові завдання (20)
 * Допуск до екзамену - здача усіх лабораторних робіт. "Вага" екзамену - 15 балів. 
@@ -27,14 +30,9 @@
 ## Структура лабораторних робіт
 
 * Розділ "Вступ до криптографії"
-   * Лабораторна робота №1. Гешування
+   * Лабораторна робота №1. [Гешування](./labs/hashing.md)
    * Лабораторна робота №2. [Time-based One Time Password](./labs/totp.md)
-   *   >>> Симетричне блочне шифрування
-   *   >>> Ключі асиметричного шифрування
-   *   >>> Асиметричне блочне шифрування. Алгоритм RSA
-
-<!--   *   ?? підписи, сертифікати, мульти підпис, key derivation function, text key phrase (https://habr.com/ru/company/distributedlab/blog/413627/)
-   *   ?? потокове шифрування -->
+   * Лабораторна робота №3. [Асиметричне блочне шифрування. Алгоритм RSA](./labs/rsa.md)
 
 * Розділ "Дослідження існуючих систем"
    * Лабораторна робота №8-9. [Windows] [Дослідження динамічних бібліотек](./labs/reverse-dll.md)
@@ -43,31 +41,15 @@
 
 * Розділ "Безпека десктопного програмного забезпечення"
    * Лабораторна робота №13. [Захист від зміни виконуючого файлу](./labs/sign-exe.md)
-   *    >>> Створення ліцензійного ключа
-   *    >>> ?? обфускація
+   * Лабораторна робота №14. [Створення ліцензійного ключа](./labs/lickey.md)
    * Лабораторна робота №15-16. [Оцінка якості коду](./labs/code-quality.md)
 
-<!--
-* Розділ "Безпека Веб-додатків"
-   * To Be Done
--->
-
-<!--
-* Виключені лабораторні роботи
-   * Вступ до стеганографії
-   * Геш-дерева
--->
-
-<!--
-* Горносталь
-   * Editing an executable file (https://bitbucket.org/OleksiiHornostal/secureprogramming_2020/src/master/docs/lab03/readme.md)
-
-   * Using buffer overflow vulnerability in C language (https://bitbucket.org/OleksiiHornostal/secureprogramming_2020/src/master/docs/lab09/readme.md)
-   * Working with strings. Stack corruption. Buffer owerflow attack (injection) (https://bitbucket.org/OleksiiHornostal/secureprogramming_2020/src/master/docs/lab02/readme.md)
-
-   * Features of working with printf function (https://bitbucket.org/OleksiiHornostal/secureprogramming_2020/src/master/docs/lab05/readme.md)
--->
 
 
+## Перелік рекомендованої літератури
+<!-- TODO: books list -->
 
-<!-- TOOD: exam questions -->
+
+<!-- TODO: question per each lab -->
+
+<!-- TOOD: доп практические задания , доп вопроси -->
