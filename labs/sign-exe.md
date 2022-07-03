@@ -15,6 +15,7 @@
 P.S. Лабораторна робота розрахована для windows-виконуючих файлів або java файлів. Але якщо робота будет зроблена для Linux/Macos виконуючих балів - це вам плюс до карми та можливість отримати додаткові бали.
 
 ### Література
+
 - [Wiki: X.509](https://en.wikipedia.org/wiki/X.509).
 - [PKCS #5: Password-Based Cryptography Specification](http://www.ietf.org/rfc/rfc2898.txt).
 - [Wiki: PKCS #12](https://en.wikipedia.org/wiki/PKCS_12).

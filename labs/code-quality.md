@@ -25,7 +25,8 @@
 - або Antrl 
 - Будь-які інші бібліотеки для аналізу синтаксичного дерева потрібно обговорювати з викладачем
 
-## Посилання
+## Література
+
 - [Roslyn](https://github.com/dotnet/roslyn)
 - [Antrl](https://www.antlr.org)
 - [Опис метрик коду](https://habr.com/ru/company/intel/blog/106082/)

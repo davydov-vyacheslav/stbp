@@ -13,7 +13,8 @@
 
 Довести коректність роботи реалізованого алгоритму шляхом порівняння результатів з існуючими реалізаціями (напр. утилітою `sha1sum`).
 
-### Додаткова Література:
+### Література:
+
 * [SHA1 RFC](https://datatracker.ietf.org/doc/html/rfc3174)
 * [Secure Hash Standard](https://csrc.nist.gov/csrc/media/publications/fips/180/2/archive/2002-08-01/documents/fips180-2.pdf)
 * [Breaking Down: SHA-1 Algorithm](https://infosecwriteups.com/breaking-down-sha-1-algorithm-c152ed353de2)
